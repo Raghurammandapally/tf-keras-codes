@@ -1,4 +1,6 @@
-Workshop PyConf Hyderabad 
+# Workshop PyConf Hyderabad
+* Gist of [my code](https://gist.github.com/gvsakash/a5c6c5e98915fb558c195f96e1a4e406#file-01_hydpy_workshop-ipynb) implemeted in workshop
+
 =========================
 
 **Time Series Analysis with Python**
